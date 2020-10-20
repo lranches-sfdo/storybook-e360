@@ -1,9 +1,7 @@
 {
   "packageDirectories": [
-    {
-      "path": "force-app",
-      "default": true
-    }
+    { "path": "force-app/main", "default": true },
+    { "path": "force-app/common-e360", "default": false }
   ],
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",

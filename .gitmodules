@@ -1,0 +1,3 @@
+[submodule "force-app/common-e360"]
+	path = force-app/common-e360
+	url = git@github.com:lranches-sfdo/common-e360.git
