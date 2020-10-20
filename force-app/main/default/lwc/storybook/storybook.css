@@ -1,0 +1,4 @@
+.container {
+  border-radius: var(--lwc-borderRadiusMedium);
+  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.1); /* got error: No TOKEN named cardShadow found */
+}
